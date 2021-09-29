@@ -17,8 +17,11 @@ body {
   font-size: 6x-large;
 }
 
-.post {
-  border: solid #113d37;
+.post1 {
+  border: solid #041a17;
+  height: 500px;
+  width: 450px;
+  margin-left: 10vw;
 }
 
 .post-header1 {
@@ -32,30 +35,47 @@ body {
   padding: 20px 40px;
   border: solid #113d37 2px;
   font-size: x-large;
+  position: absolute;
+}
+
+.post2 {
+  border: solid #041a17;
+  height: 500px;
+  width: 450px;
+  margin-left: 38%;
+  bottom: 30%;
+  position: absolute;
 }
 
 .post-header2 {
   color: #154b2c;
   text-align: center;
-  margin-top: 20px;
+  margin-top: 0px;
   margin-bottom: 20px;
   margin-left: 0vw;
-  margin-right: 63vw;
   background-color: #5a9c76;
   padding: 20px 40px;
   border: solid #113d37 2px;
   font-size: x-large;
+  position: absolute;
+}
+
+.post3 {
+  border: solid #041a17;
+  height: 500px;
+  width: 450px;
+  margin-left: 70vw;
+  bottom: 30%;
+  position: absolute;
 }
 
 .post-header3 {
   color: #154b2c;
   text-align: center;
-  margin-top: 20px;
-  margin-bottom: 20px;
-  margin-left: 0vw;
-  margin-right: 59vw;
+  margin-bottom: px;
   background-color: #5a9c76;
   padding: 20px 40px;
   border: solid #113d37 2px;
   font-size: x-large;
+  position: absolute;
 }
