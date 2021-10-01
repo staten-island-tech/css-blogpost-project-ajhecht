@@ -2,6 +2,7 @@ body {
   background-color: #bfe9cc;
   color: #060a0c;
   font-size: 20px;
+  font-family: "Libre Baskerville", serif;
 }
 
 .main-header1 {
@@ -16,11 +17,13 @@ body {
   border: solid #082717 3px;
   font-size: 6x-large;
 }
-
-.post1 {
+.post {
   border: solid #041a17;
   height: 500px;
   width: 450px;
+  text-align: center;
+}
+.post1 {
   margin-left: 10vw;
   bottom: 30%;
   position: absolute;
@@ -30,7 +33,7 @@ body {
   color: #154b2c;
   text-align: center;
   margin-top: 0px;
-  margin-left: 3vw;
+  margin-left: 2.2vw;
   background-color: #5a9c76;
   padding: 20px 40px;
   border: solid #113d37 2px;
@@ -38,10 +41,11 @@ body {
   position: absolute;
 }
 
+.post-img1 {
+  width: 300px;
+}
+
 .post2 {
-  border: solid #041a17;
-  height: 500px;
-  width: 450px;
   margin-left: 38%;
   bottom: 30%;
   position: absolute;
@@ -52,7 +56,7 @@ body {
   text-align: center;
   margin-top: 0px;
   margin-bottom: 20px;
-  margin-left: 3vw;
+  margin-left: 2vw;
   background-color: #5a9c76;
   padding: 20px 40px;
   border: solid #113d37 2px;
@@ -60,10 +64,11 @@ body {
   position: absolute;
 }
 
+.post-img2 {
+  width: 300px;
+}
+
 .post3 {
-  border: solid #041a17;
-  height: 500px;
-  width: 450px;
   margin-left: 66vw;
   bottom: 30%;
   position: absolute;
@@ -74,10 +79,15 @@ body {
   text-align: center;
   margin-top: 0px;
   margin-bottom: 20px;
-  margin-left: 2.3vw;
+  margin-left: 1.2vw;
   background-color: #5a9c76;
   padding: 20px 40px;
   border: solid #113d37 2px;
   font-size: x-large;
   position: absolute;
+}
+
+.post-img3 {
+  width: 200px;
+  margin-top: 30vh;
 }
