@@ -43,6 +43,7 @@ body {
 
 .post-img1 {
   width: 300px;
+  margin-top: 32vh;
 }
 
 .post2 {
@@ -65,13 +66,15 @@ body {
 }
 
 .post-img2 {
-  width: 300px;
+  width: 175px;
+  margin-top: 29vh;
 }
 
 .post3 {
   margin-left: 66vw;
   bottom: 30%;
   position: absolute;
+  text-align: center;
 }
 
 .post-header3 {
