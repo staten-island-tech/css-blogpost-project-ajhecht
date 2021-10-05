@@ -23,6 +23,11 @@ body {
   width: 450px;
   text-align: center;
 }
+
+.text {
+  margin-top: -45vh;
+}
+
 .post1 {
   margin-left: 10vw;
   bottom: 30%;
@@ -46,10 +51,6 @@ body {
   margin-top: 32vh;
 }
 
-.text1 {
-  margin-top: -40vh;
-}
-
 .post2 {
   margin-left: 38%;
   bottom: 30%;
@@ -70,12 +71,8 @@ body {
 }
 
 .post-img2 {
-  width: 175px;
+  width: 173px;
   margin-top: 29vh;
-}
-
-.text2 {
-  margin-top: -40vh;
 }
 
 .post3 {
@@ -101,8 +98,4 @@ body {
 .post-img3 {
   width: 200px;
   margin-top: 30vh;
-}
-
-.text3 {
-  margin-top: -40vh;
 }
